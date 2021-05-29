@@ -13,7 +13,7 @@
 - [x] issikirpti nuotraukas ir jas panaudoti
   - panaudoti reliatyvu kelia
   - png formatas, del permatomumo savybes
-- [] aprasome stiliu:
+- [x ] aprasome stiliu:
   - turinys turi buti centre
   - pagrindinis plotis turi buti fiksuotas
   - stiliu (CSS) atskirti nuo HTML
